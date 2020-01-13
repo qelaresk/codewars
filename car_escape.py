@@ -2,8 +2,10 @@ def escape(carpark):
     '''
     03.04.2019 Fatma Coskunfirat
     Input : Car place in List
-    Output: Direction to escape from car place in List    
+    Output: Direction to escape from car place in List   
     '''
+    # Link: https://www.codewars.com/kata/591eab1d192fe0435e000014
+
     result = []
     row    = len(carpark[0])
     column = len(carpark)
