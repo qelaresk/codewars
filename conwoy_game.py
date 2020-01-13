@@ -2,6 +2,7 @@
 import matplotlib.pyplot as plt
 import copy
 # Implemented by Fatma Coskunfirat
+# Link: https://www.codewars.com/kata/525fbff0594da0665c0003a3
 
 def check_adjacent(matrix,i,j,N,M):
     live_cell = 0
